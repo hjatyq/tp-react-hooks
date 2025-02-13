@@ -82,8 +82,8 @@ Le hook retourne la valeur du terme de recherche uniquement après un délai (50
 
 - [ ] Dans cet exercice, j'ai implémenté un bouton de rechargement pour actualiser la liste des produits sans recharger l'application entière. J'ai également ajouté la pagination pour diviser les produits en plusieurs pages, améliorant ainsi les performances et l'expérience utilisateur. La pagination permet de naviguer facilement entre les pages de produits à l'aide des boutons Précédent et Suivant. Cela optimise le chargement des données en récupérant un nombre limité de produits à la fois.
 
-<img src="src/assets/E6.PNG" alt="Exercic4" >
-<img src="src/assets/E7.PNG" alt="Exercice4" >
+<img src="src/assets/E6.png" alt="Exercic4" >
+<img src="src/assets/E7.png" alt="Exercice4" >
 
 ## Rendu
 
